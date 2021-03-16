@@ -1,0 +1,59 @@
+/* .card-list{
+    width: 85vw;
+    margin:0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 1.2rem;
+} */
+
+/* Extra Small devices (less than 576px)  */
+@media (max-width: 576px) { 
+    .card-list{
+        width: 80vw;
+        margin:0 auto;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: .8rem;
+        cursor:url(https://emoji.gg/assets/emoji/6419_great_pokeball.png), auto;
+    }
+    
+}
+
+/* Small devices (landscape phones, 576px and above till next break point) */
+@media (min-width: 576px) { 
+    .card-list{
+        width: 85vw;
+        margin:0 auto;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 1.2rem;
+        cursor:url(https://emoji.gg/assets/emoji/6419_great_pokeball.png), auto;
+    }
+    
+}
+
+/* Medium devices (tablets, 768px and above till next break point) */
+@media (min-width: 768px) { 
+    .card-list{
+        width: 85vw;
+        margin:0 auto;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-gap: 1.2rem;
+        cursor:url(https://emoji.gg/assets/emoji/6419_great_pokeball.png), auto;
+    }
+    
+}
+
+/* Large devices (desktops, 992px and above till next break point) */
+@media (min-width: 992px) { 
+    .card-list{
+        width: 80vw;
+        margin:0 auto;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-gap: 1.2rem;
+        cursor:url(https://emoji.gg/assets/emoji/6419_great_pokeball.png), auto;
+    }
+    
+}

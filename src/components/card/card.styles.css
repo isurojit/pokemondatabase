@@ -1,0 +1,50 @@
+.card-continer{
+    display:flex;
+    flex-direction:column;
+    background-color: #fff;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 1rem;
+    cursor:url(https://emoji.gg/assets/emoji/6419_great_pokeball.png), auto;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+    box-shadow: 0px 1px 6px 1px rgba(0,0,0,0.8);
+    -webkit-box-shadow: 0px 1px 6px 1px rgba(0,0,0,0.8);
+    -moz-box-shadow: 0px 1px 6px 1px rgba(0,0,0,0.8); 
+    font-family: 'Righteous', cursive;
+}
+
+.card-continer:hover{
+    transform: scale(1.05);
+}
+
+img{
+    width: 170px;
+    height: 180px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    cursor:url(https://emoji.gg/assets/emoji/6419_great_pokeball.png), auto;
+}
+a, a:link, a:visited, a:focus, a:active {
+    color: #000000;
+    text-decoration: none;
+    cursor:url(https://emoji.gg/assets/emoji/6419_great_pokeball.png), auto;
+}
+
+/* Small devices (landscape phones, 576px and above till next break point) */
+@media (min-width: 576px) { 
+
+}
+
+/* Medium devices (tablets, 768px and above till next break point) */
+@media (min-width: 768px) { 
+    
+}
+
+/* Large devices (desktops, 992px and above till next break point) */
+@media (min-width: 992px) { 
+
+}
