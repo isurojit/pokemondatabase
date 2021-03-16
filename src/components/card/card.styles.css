@@ -5,7 +5,7 @@
     border: 1px solid gray;
     border-radius: 5px;
     padding: 1rem;
-    cursor:url(https://emoji.gg/assets/emoji/6419_great_pokeball.png), auto;
+    cursor:url(https://emoji.gg/assets/emoji/2355_ultra_ball_pokemon.png), auto;
     -moz-osx-font-smoothing: grayscale;
     backface-visibility: hidden;
     transform: translateZ(0);
@@ -26,12 +26,12 @@ img{
     display:block;
     margin-left: auto;
     margin-right: auto;
-    cursor:url(https://emoji.gg/assets/emoji/6419_great_pokeball.png), auto;
+    cursor:url(https://emoji.gg/assets/emoji/2355_ultra_ball_pokemon.png), auto;
 }
 a, a:link, a:visited, a:focus, a:active {
     color: #000000;
     text-decoration: none;
-    cursor:url(https://emoji.gg/assets/emoji/6419_great_pokeball.png), auto;
+    cursor:url(https://emoji.gg/assets/emoji/2355_ultra_ball_pokemon.png), auto;
 }
 
 /* Small devices (landscape phones, 576px and above till next break point) */
