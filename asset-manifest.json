@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/pokemon-directory/static/css/main.d2479fee.chunk.css",
-    "main.js": "/pokemon-directory/static/js/main.8149d74d.chunk.js",
-    "main.js.map": "/pokemon-directory/static/js/main.8149d74d.chunk.js.map",
-    "runtime-main.js": "/pokemon-directory/static/js/runtime-main.dc674a12.js",
-    "runtime-main.js.map": "/pokemon-directory/static/js/runtime-main.dc674a12.js.map",
-    "static/js/2.f6f4ca47.chunk.js": "/pokemon-directory/static/js/2.f6f4ca47.chunk.js",
-    "static/js/2.f6f4ca47.chunk.js.map": "/pokemon-directory/static/js/2.f6f4ca47.chunk.js.map",
-    "static/js/3.484ddc85.chunk.js": "/pokemon-directory/static/js/3.484ddc85.chunk.js",
-    "static/js/3.484ddc85.chunk.js.map": "/pokemon-directory/static/js/3.484ddc85.chunk.js.map",
-    "index.html": "/pokemon-directory/index.html",
-    "static/css/main.d2479fee.chunk.css.map": "/pokemon-directory/static/css/main.d2479fee.chunk.css.map",
-    "static/js/2.f6f4ca47.chunk.js.LICENSE.txt": "/pokemon-directory/static/js/2.f6f4ca47.chunk.js.LICENSE.txt"
+    "main.css": "/pokemondatabase/static/css/main.d2479fee.chunk.css",
+    "main.js": "/pokemondatabase/static/js/main.8149d74d.chunk.js",
+    "main.js.map": "/pokemondatabase/static/js/main.8149d74d.chunk.js.map",
+    "runtime-main.js": "/pokemondatabase/static/js/runtime-main.34229385.js",
+    "runtime-main.js.map": "/pokemondatabase/static/js/runtime-main.34229385.js.map",
+    "static/js/2.f6f4ca47.chunk.js": "/pokemondatabase/static/js/2.f6f4ca47.chunk.js",
+    "static/js/2.f6f4ca47.chunk.js.map": "/pokemondatabase/static/js/2.f6f4ca47.chunk.js.map",
+    "static/js/3.484ddc85.chunk.js": "/pokemondatabase/static/js/3.484ddc85.chunk.js",
+    "static/js/3.484ddc85.chunk.js.map": "/pokemondatabase/static/js/3.484ddc85.chunk.js.map",
+    "index.html": "/pokemondatabase/index.html",
+    "static/css/main.d2479fee.chunk.css.map": "/pokemondatabase/static/css/main.d2479fee.chunk.css.map",
+    "static/js/2.f6f4ca47.chunk.js.LICENSE.txt": "/pokemondatabase/static/js/2.f6f4ca47.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc674a12.js",
+    "static/js/runtime-main.34229385.js",
     "static/js/2.f6f4ca47.chunk.js",
     "static/css/main.d2479fee.chunk.css",
     "static/js/main.8149d74d.chunk.js"
