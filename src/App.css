@@ -6,3 +6,11 @@ h1{
   font-family: 'Gugi', cursive;
   font-size: 3rem;
 }
+
+a{
+  font-family: 'Gugi', cursive;
+  cursor: pointer;
+  border: 1px solid black;
+  width: 5%;
+  float: right;
+}
