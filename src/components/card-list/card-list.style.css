@@ -12,7 +12,7 @@
         width: 80vw;
         margin:0 auto;
         display: grid;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
         grid-gap: .8rem;
         cursor:url(https://emoji.gg/assets/emoji/6419_great_pokeball.png), auto;
     }
