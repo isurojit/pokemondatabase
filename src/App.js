@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import { CardList } from './components/card-list/card-list.component';
 import { SearchBox } from './components/search-box/search-box.component';
+import { NavigationBtn } from './components/page-navigation/back-to-top';
 import './App.css';
 
 class App extends Component{
@@ -35,7 +36,7 @@ class App extends Component{
           placeholder='Search Pokemon' 
           handleChange= {this.handleChange}
         />
-
+        <NavigationBtn/>
         <CardList pokemons={fileteredPokemons}></CardList>
         
       </div>

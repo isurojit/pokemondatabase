@@ -1,0 +1,33 @@
+.navigation-btn{
+    position: fixed;
+}
+.navigation-image{
+    width: 25%;
+    height: auto;
+    position: relative;
+    left: 460%;
+    top: 25em;
+}
+
+.navigation-image:hover{
+    transform: translateY(-30%);
+    transition: .5s all ease-in-out;
+    cursor: pointer;
+}
+
+/* Small devices (landscape phones, 576px and above till next break point) */
+@media (min-width: 576px) { 
+    .navigation-btn{
+        display: hidden;
+    }
+}
+
+/* Medium devices (tablets, 768px and above till next break point) */
+@media (min-width: 768px) { 
+    
+}
+
+/* Large devices (desktops, 992px and above till next break point) */
+@media (min-width: 992px) { 
+
+}
