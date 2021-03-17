@@ -31,7 +31,7 @@ class App extends Component{
 
     return(
       <div className="App">
-        <a href="https://www.linkedin.com/in/surojit-manna" target="_blank" noreferrer>Author</a>
+        <h4><a href="https://www.linkedin.com/in/surojit-manna" target="_blank" noreferrer>Author</a></h4>
         <h1>Pokemon Database</h1>
         <SearchBox
           placeholder='Search Pokemon' 
